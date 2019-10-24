@@ -1,4 +1,4 @@
-pythonEKGAPI
+python ECG API
 ============
 
 **Overview:**
